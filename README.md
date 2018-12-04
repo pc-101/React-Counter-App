@@ -1,3 +1,9 @@
+# Counter App
+
+The first of many mini projects that I'll be doing in order to brush up on React concepts. This is a simple counter application that introduces basic component structures of React.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
