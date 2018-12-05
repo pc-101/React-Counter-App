@@ -1,6 +1,8 @@
 # Counter App
 
-The first of many mini projects that I'll be doing in order to brush up on React concepts. This is a simple counter application that introduces basic component structures of React.
+The first of many mini projects that I'll be doing in order to brush up on React concepts. This is a relatively simple counter application that introduces core concepts of React such as the basic component structures of React, raising and handling events in a parent state, updating states, single source of truth, lifting the state up when involving two or more child components, and more. 
+
+Frontend styling is covered by Bootstrap 4, as its ability to quickly style components via class markup allows me to focus mainly on the code, while also keeping the product visually pleasing and gratifying when making updates. 
 
 ---
 
